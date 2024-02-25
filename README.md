@@ -51,6 +51,10 @@ Home page
 Profile page
 <img width="959" alt="image" src="https://github.com/dhivyashankar12/sociogram/assets/94692935/5ab1822b-0e53-4f9a-b224-3e013b454ed6">
 
+Database sample in MySQL
+<img width="958" alt="image" src="https://github.com/dhivyashankar12/sociogram/assets/94692935/c1805102-f3ca-40e5-8313-34213159ca40">
+
+
 ### Installation
 
 1. Clone the repository:
